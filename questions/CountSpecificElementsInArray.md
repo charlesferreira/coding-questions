@@ -9,7 +9,7 @@ separately.
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
 | Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^2)          | O(1)             |
-| Solution 2 | [PHP][PHP-2]               | O(n)            | O(n)             |
+| Solution 2 | [PHP][PHP-2] \| [JS][JS-2] | O(n)            | O(n)             |
 
 ## Examples
 
@@ -45,3 +45,5 @@ array.*
 [PHP-2]: ../solutions/CountSpecificElementsInArray-2.php
 
 [JS-1]: ../solutions/CountSpecificElementsInArray-1.js
+
+[JS-2]: ../solutions/CountSpecificElementsInArray-2.js
