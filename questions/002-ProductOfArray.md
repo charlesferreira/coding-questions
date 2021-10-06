@@ -9,7 +9,7 @@ fit in a 32-bit integer.
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-| Solution 1 | [PHP][PHP-1]               | O(n^2)          | O(n)             |
+| Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^2)          | O(n)             |
 
 ## Examples
 
@@ -38,3 +38,5 @@ Output: `[0, 0, 9, 0, 0]`
 (This case is interesting because we have a zero here)
 
 [PHP-1]: ../solutions/php/002-ProductOfArray/solution-1.php
+
+[JS-1]: ../solutions/js/002-ProductOfArray/solution-1.js
