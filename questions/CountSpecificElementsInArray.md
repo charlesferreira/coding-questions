@@ -28,8 +28,8 @@ Input: `arr = [1, 1, 3, 3, 5, 5, 7, 7]`
 
 Output: `0`
 
-*Explanation: There's no such number because 2, 4, 6 or 8 is not present in the
-array.*
+*Explanation: There's no such number because 2, 4, 6 and 8 are not present in
+the array.*
 
 ### Example 3
 
