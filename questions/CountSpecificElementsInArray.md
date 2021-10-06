@@ -6,10 +6,10 @@ separately.
 
 ## Solutions
 
-| Solution   | Language      | Time complexity | Space complexity |
-|:----------:|:-------------:|:---------------:|:----------------:|
-| Solution 1 | [PHP][PHP-1]  | O(n^2)          | O(1)             |
-| Solution 2 | [PHP][PHP-2]  | O(n)            | O(n)             |
+| Solution   | Language                   | Time complexity | Space complexity |
+|:----------:|:--------------------------:|:---------------:|:----------------:|
+| Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^2)          | O(1)             |
+| Solution 2 | [PHP][PHP-2]               | O(n)            | O(n)             |
 
 ## Examples
 
@@ -43,3 +43,5 @@ array.*
 [PHP-1]: ../solutions/CountSpecificElementsInArray-1.php
 
 [PHP-2]: ../solutions/CountSpecificElementsInArray-2.php
+
+[JS-1]: ../solutions/CountSpecificElementsInArray-1.js
