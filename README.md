@@ -4,4 +4,9 @@ My favorite questions and solutions on Algorithms and Data Structures.
 
 ## Questions
 
-* [Count Specific Elements In Array](questions/CountSpecificElementsInArray.md)
+* 001 - [Count Specific Elements In Array][001]
+* 002 - [Product of Array][002]
+
+[001]: questions/001-CountSpecificElementsInArray.md
+
+[002]: questions/002-ProductOfArray.md
