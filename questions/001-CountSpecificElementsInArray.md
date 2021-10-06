@@ -40,10 +40,10 @@ Output: `3`
 *Explanation: There are three numbers, 0, 1 and 2, because 1, 2 and 3 are in the
 array.*
 
-[PHP-1]: ../solutions/CountSpecificElementsInArray-1.php
+[PHP-1]: ../solutions/php/001-CountSpecificElementsInArray/solution-1.php
 
-[PHP-2]: ../solutions/CountSpecificElementsInArray-2.php
+[PHP-2]: ../solutions/php/001-CountSpecificElementsInArray/solution-2.php
 
-[JS-1]: ../solutions/CountSpecificElementsInArray-1.js
+[JS-1]: ../solutions/js/001-CountSpecificElementsInArray/solution-1.js
 
-[JS-2]: ../solutions/CountSpecificElementsInArray-2.js
+[JS-2]: ../solutions/js/001-CountSpecificElementsInArray/solution-2.js

@@ -19,4 +19,4 @@ function countSpecificElements(array $input): int {
     return $count;
 }
 
-include 'tests/CountSpecificElementsInArray.php';
+include 'tests.php';

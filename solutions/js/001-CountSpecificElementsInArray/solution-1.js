@@ -1,5 +1,3 @@
-const test = require('./tests/CountSpecificElementsInArray');
-
 // O(n^2) time | O(1) space, n = number of elements in the input array
 function countSpecificElements(input) {
     let numberOfElements = 0;
@@ -16,5 +14,7 @@ function countSpecificElements(input) {
 
     return numberOfElements;
 }
+
+const test = require('./tests');
 
 test(countSpecificElements);
