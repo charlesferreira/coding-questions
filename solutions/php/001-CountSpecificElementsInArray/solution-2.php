@@ -1,10 +1,10 @@
 <?php
 
 // O(n) time | O(n) space, n = number of elements in the input array
-function countSpecificElements(array $input): int {
+function countSpecificElements(array $arr): int {
     $count = 0;
     $found = [];
-    foreach ($input as $number) {
+    foreach ($arr as $number) {
         if (isset($found[$number + 1])) {
             $count++;
         }
