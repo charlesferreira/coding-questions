@@ -17,7 +17,8 @@ target sum.
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-| Solution 1 | [PHP][PHP-1]               | O(n^2)          | O(1)|
+| Solution 1 | [PHP][PHP-1]               | O(n^2)          | O(1)             |
+| Solution 2 | [PHP][PHP-2]               | O(n)            | O(n)             |
 
 ## Examples
 
@@ -37,3 +38,5 @@ targetSum = 10
 ```
 
 [PHP-1]: ../solutions/php/003-TwoNumberSum/solution-1.php
+
+[PHP-2]: ../solutions/php/003-TwoNumberSum/solution-2.php
