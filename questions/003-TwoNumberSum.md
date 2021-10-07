@@ -19,7 +19,7 @@ target sum.
 |:----------:|:--------------------------:|:---------------:|:----------------:|
 | Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^2)          | O(1)             |
 | Solution 2 | [PHP][PHP-2] \| [JS][JS-2] | O(n)            | O(n)             |
-| Solution 3 | [PHP][PHP-3]               | O(nlog(n))      | O(1)             |
+| Solution 3 | [PHP][PHP-3] \| [JS][JS-3] | O(nlog(n))      | O(1)             |
 
 ## Examples
 
@@ -47,3 +47,5 @@ targetSum = 10
 [JS-1]: ../solutions/js/003-TwoNumberSum/solution-1.js
 
 [JS-2]: ../solutions/js/003-TwoNumberSum/solution-2.js
+
+[JS-3]: ../solutions/js/003-TwoNumberSum/solution-3.js

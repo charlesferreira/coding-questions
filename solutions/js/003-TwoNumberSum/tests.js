@@ -6,7 +6,8 @@ const testCases = [
 ];
 
 const isEqual = (arr1, arr2) => {
-    return arr1.length === arr2.length && arr1.every((v, i) => v === arr2[i]);
+    const sortedArr2 = [...arr2].sort();
+    return arr1.length === arr2.length && [...arr1].sort().every((v, i) => v === sortedArr2[i]);
 }
 
 module.exports = (solution) => {
