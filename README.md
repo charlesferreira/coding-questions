@@ -8,7 +8,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 |:---:|:----------------------------------------|:------------:|
 | 001 | [Count Specific Elements In Array][001] | O(n)         |
 | 002 | [Product of Array][002]                 | O(n^2)       |
-| 002 | [Two Number Sum][003]                   |              |
+| 002 | [Two Number Sum][003]                   | O(n)         |
 
 [001]: questions/001-CountSpecificElementsInArray.md
 
