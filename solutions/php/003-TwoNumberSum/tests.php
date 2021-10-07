@@ -9,8 +9,7 @@ $testCases = [
 
 foreach ($testCases as $k => $testCase) {
     echo "---------- Test Case $k ----------\n";
-    [$input, $expected] = $testCase;
-    [$array, $targetSum] = $input;
+    [[$array, $targetSum], $expected] = $testCase;
     $result = twoNumberSum($array, $targetSum);
     sort($result);
     sort($expected);
