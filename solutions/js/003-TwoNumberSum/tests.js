@@ -1,8 +1,8 @@
 const testCases = [
-    [[1, 2, 3, 4], [24, 12, 8, 6]],
-    [[-1, 1, 0, -3, 3], [0, 0, 9, 0, 0]],
-    [[-1, -1, -1, -1], [-1, -1, -1, -1]],
-    [[0, 0, 1, 1, 1], [0, 0, 0, 0, 0]],
+    [[[3, 5, -4, 8, 11, 1, -1, 6], 10], [11, -1]],
+    [[[0, 1], 1], [0, 1]],
+    [[[0, 1], 2], []],
+    [[[], 0], []],
 ];
 
 const isEqual = (arr1, arr2) => {
@@ -12,8 +12,8 @@ const isEqual = (arr1, arr2) => {
 module.exports = (solution) => {
     for (const [index, testCase] of testCases.entries()) {
         console.log(`---------- Test Case ${index} ----------`);
-        const [input, expected] = testCase;
-        const result = solution(input);
+        const [[array, targetSum], expected] = testCase;
+        const result = solution(array, targetSum);
         if (isEqual(expected, result)) {
             console.log('OK');
         } else {
