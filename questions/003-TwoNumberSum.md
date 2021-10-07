@@ -17,7 +17,7 @@ target sum.
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-|||||
+| Solution 1 | [PHP][PHP-1]               | O(n^2)          | O(1)|
 
 ## Examples
 
@@ -35,3 +35,5 @@ targetSum = 10
 ```
 [-1, 11] // the numbers could be in reverse order
 ```
+
+[PHP-1]: ../solutions/php/003-TwoNumberSum/solution-1.php
