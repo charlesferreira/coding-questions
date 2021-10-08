@@ -10,7 +10,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 002 | [Product of Array][002]                 | O(n^2)       |
 | 003 | [Two Number Sum][003]                   | O(n)         |
 | 004 | [Find Common Characters][004]           | O(n*m)       |
-| 005 | [Binary Search][005]                    |              |
+| 005 | [Binary Search][005]                    | O(log(n))    |
 
 [001]: questions/001-CountSpecificElementsInArray.md
 
