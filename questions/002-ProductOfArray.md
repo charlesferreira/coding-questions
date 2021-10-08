@@ -15,27 +15,31 @@ fit in a 32-bit integer.
 
 ### Example 1
 
-Input: `nums = [1, 2, 3, 4]`
+#### Input
 
-Output: `[24, 12, 8, 6]`
+```javascript
+nums = [1, 2, 3, 4]
+```
 
-*Explanation: [2\*3\*4, 1\*3\*4, 1\*2\*4, 1\*2\*3]*
+#### Output
+
+```javascript
+[24, 12, 8, 6]
+```
 
 ### Example 2
 
-Input: `nums = [-1, 1, 0, -3, 3]`
+#### Input
 
-Output: `[0, 0, 9, 0, 0]`
+```javascript
+nums = [-1, 1, 0, -3, 3]
+```
 
-*Explanation: [
-1\*0\*(-3)\*3,
-(-1)\*0\*(-3)\*3,
-(-1)\*1\*(-3)\*3,
-(-1)\*1\*0\*3,
-(-1)\*1\*0\*(-3)
-]*
+#### Output
 
-(This case is interesting because we have a zero here)
+```javascript
+[0, 0, 9, 0, 0]
+```
 
 [PHP-1]: ../solutions/php/002-ProductOfArray/solution-1.php
 

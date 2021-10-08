@@ -17,13 +17,13 @@ the answer in any order.
 
 #### Input
 
-```
+```javascript
 A = ["bella", "label", "roller"]
 ```
 
 #### Output
 
-```
+```javascript
 ["e", "l", "l"]
 ```
 
@@ -35,13 +35,13 @@ need to add it twice to output array.
 
 #### Input
 
-```
+```javascript
 A = ["cool", "lock", "cook"]
 ```
 
 #### Output
 
-```
+```javascript
 ["c", "o"]
 ```
 

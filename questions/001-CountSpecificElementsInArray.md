@@ -15,30 +15,45 @@ separately.
 
 ### Example 1
 
-Input: `arr = [1, 2, 3]`
+#### Input
 
-Output: `2`
+```javascript
+arr = [1, 2, 3]
+```
 
-*Explanation: There are two such elements, 1 and 2, because 2 and 3 are also in
-the array.*
+#### Output
+
+```javascript
+2
+```
 
 ### Example 2
 
-Input: `arr = [1, 1, 3, 3, 5, 5, 7, 7]`
+#### Input
 
-Output: `0`
+```javascript
+arr = [1, 1, 3, 3, 5, 5, 7, 7]
+```
 
-*Explanation: There's no such number because 2, 4, 6 and 8 are not present in
-the array.*
+#### Output
+
+```javascript
+0
+```
 
 ### Example 3
 
-Input: `arr = [1, 3, 2, 3, 5, 0]`
+#### Input
 
-Output: `3`
+```javascript
+arr = [1, 3, 2, 3, 5, 0]
+```
 
-*Explanation: There are three numbers, 0, 1 and 2, because 1, 2 and 3 are in the
-array.*
+#### Output
+
+```javascript
+3
+```
 
 [PHP-1]: ../solutions/php/001-CountSpecificElementsInArray/solution-1.php
 
