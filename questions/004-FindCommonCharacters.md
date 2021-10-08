@@ -1,15 +1,15 @@
 # Find Common Characters
 
-Given an array `A` of strings made only from lowercase letters, return a list of
-all characters that occur in all strings within the list. You should include
-characters as many times, as they occur in every string. You may return the
-answer in any order.
+Given a non-empty array `A` of strings made only from lowercase letters, return
+a list of all characters that occur in all strings within the list. You should
+include characters as many times as they occur in every string. You may return
+the answer in any order.
 
 ## Solutions
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-| | | | |
+| Solution 1 | [JS][JS-1]                 | O(n*m)          | O(n)             |
 
 ## Examples
 
@@ -49,3 +49,5 @@ Explanation: Letter `"c"` met in each word exactly one time, so you need to
 include it only once. Letter `"o"` occurs at twice in two words, "cool" and "
 cook", but only once in a word "lock", so you need to add it once to output
 array.
+
+[JS-1]: ../solutions/js/004-FindCommonCharacters/solution-1.js
