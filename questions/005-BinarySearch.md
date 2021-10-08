@@ -10,6 +10,7 @@ otherwise `-1`.
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
 | Solution 1 | [JS][JS-1]                 | O(log(n))       | O(log(n))        |
+| Solution 2 | [JS][JS-2]                 | O(log(n))       | O(1)             |
 
 ## Examples
 
@@ -44,3 +45,5 @@ target = 4
 ```
 
 [JS-1]: ../solutions/js/005-BinarySearch/solution-1.js
+
+[JS-2]: ../solutions/js/005-BinarySearch/solution-2.js
