@@ -9,7 +9,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 001 | [Count Specific Elements In Array][001] | O(n)         |
 | 002 | [Product of Array][002]                 | O(n^2)       |
 | 003 | [Two Number Sum][003]                   | O(n)         |
-| 004 | [Find Common Characters][004]           |              |
+| 004 | [Find Common Characters][004]           | O(n*m)       |
 
 [001]: questions/001-CountSpecificElementsInArray.md
 
