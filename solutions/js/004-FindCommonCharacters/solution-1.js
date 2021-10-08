@@ -1,8 +1,7 @@
 // O(n * m) time | O(n) space
-// n = total length of all words, m = length of shortest word
+// n = total length of all words, m = length of the first word
 function findCommonCharacters(A) {
     const words = A.map(a => a.split(''));
-    words.sort((a, b) => a.length - b.length);
 
     let repeatingLetters = [];
     const firstWord = words.shift();

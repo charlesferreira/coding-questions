@@ -9,7 +9,7 @@ the answer in any order.
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-| Solution 1 | [JS][JS-1]                 | O(n*m)          | O(n)             |
+| Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n*m)          | O(n)             |
 
 ## Examples
 
@@ -49,5 +49,7 @@ Explanation: Letter `"c"` met in each word exactly one time, so you need to
 include it only once. Letter `"o"` occurs at twice in two words, "cool" and "
 cook", but only once in a word "lock", so you need to add it once to output
 array.
+
+[PHP-1]: ../solutions/php/004-FindCommonCharacters/solution-1.php
 
 [JS-1]: ../solutions/js/004-FindCommonCharacters/solution-1.js
