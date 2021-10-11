@@ -12,7 +12,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 004 | [Find Common Characters][004]           | O(n*m)       |
 | 005 | [Binary Search][005]                    | O(log(n))    |
 | 006 | [Bubble Sort][006]                      | O(n^2)       |
-| 007 | [Insertion Sort][007]                   |              |
+| 007 | [Insertion Sort][007]                   | O(n^2)       |
 | 008 | [Selection Sort][008]                   |              |
 
 [001]: questions/001-CountSpecificElementsInArray.md
