@@ -13,6 +13,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 005 | [Binary Search][005]                    | O(log(n))    |
 | 006 | [Bobble Sort][006]                      |              |
 | 007 | [Insertion Sort][007]                   |              |
+| 008 | [Selection Sort][008]                   |              |
 
 [001]: questions/001-CountSpecificElementsInArray.md
 
@@ -27,3 +28,5 @@ My favorite questions and solutions on Algorithms and Data Structures.
 [006]: questions/006-BubbleSort.md
 
 [007]: questions/007-InsertionSort.md
+
+[008]: questions/008-SelectionSort.md
