@@ -7,7 +7,7 @@ of that array. Use the Insertion Sort algorithm to sort the array.
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-| Solution 1 | [PHP][PHP-1]               | O(n^2)          | O(1)             |
+| Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^2)          | O(1)             |
 
 ## Examples
 
@@ -26,3 +26,5 @@ array = [8, 5, 2, 9, 5, 6, 3]
 ```
 
 [PHP-1]: ../solutions/php/007-InsertionSort/solution-1.php
+
+[JS-1]: ../solutions/js/007-InsertionSort/solution-1.js
