@@ -17,7 +17,7 @@ module.exports = (solution) => {
         if (isEqual(expected, result)) {
             console.log('OK');
         } else {
-            console.error(`Failed: Expected ${expected} but got ${result} instead`);
+            console.error(`Failed: Expected [${expected}] but got [${result}] instead`);
         }
     }
 }
