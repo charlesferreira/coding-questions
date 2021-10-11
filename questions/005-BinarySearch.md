@@ -10,7 +10,7 @@ otherwise `-1`.
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
 | Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(log(n))       | O(log(n))        |
-| Solution 2 | [JS][JS-2]                 | O(log(n))       | O(1)             |
+| Solution 2 | [PHP][PHP-2] \| [JS][JS-2] | O(log(n))       | O(1)             |
 
 ## Examples
 
@@ -45,6 +45,8 @@ target = 4
 ```
 
 [PHP-1]: ../solutions/php/005-BinarySearch/solution-1.php
+
+[PHP-2]: ../solutions/php/005-BinarySearch/solution-2.php
 
 [JS-1]: ../solutions/js/005-BinarySearch/solution-1.js
 
