@@ -12,6 +12,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 004 | [Find Common Characters][004]           | O(n*m)       |
 | 005 | [Binary Search][005]                    | O(log(n))    |
 | 006 | [Bobble Sort][006]                      |              |
+| 007 | [Insertion Sort][007]                   |              |
 
 [001]: questions/001-CountSpecificElementsInArray.md
 
@@ -24,3 +25,5 @@ My favorite questions and solutions on Algorithms and Data Structures.
 [005]: questions/005-BinarySearch.md
 
 [006]: questions/006-BubbleSort.md
+
+[007]: questions/007-InsertionSort.md
