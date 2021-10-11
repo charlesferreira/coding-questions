@@ -13,7 +13,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 005 | [Binary Search][005]                    | O(log(n))    | [Algo Expert][AlgoExpert] |
 | 006 | [Bubble Sort][006]                      | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 007 | [Insertion Sort][007]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
-| 008 | [Selection Sort][008]                   |              | [Algo Expert][AlgoExpert] |
+| 008 | [Selection Sort][008]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 009 | [Minimum Average Slice][009]            |              | [Codility][Codility]      |
 
 [Turing]: https://www.turing.com/
