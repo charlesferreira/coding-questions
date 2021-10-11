@@ -14,6 +14,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 006 | [Bubble Sort][006]                      | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 007 | [Insertion Sort][007]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 008 | [Selection Sort][008]                   |              | [Algo Expert][AlgoExpert] |
+| 009 | [Minimum Average Slice][009]            |              | [Codility][Codility]      |
 
 [Turing]: https://www.turing.com/
 
@@ -36,3 +37,5 @@ My favorite questions and solutions on Algorithms and Data Structures.
 [007]: questions/007-InsertionSort.md
 
 [008]: questions/008-SelectionSort.md
+
+[009]: questions/009-MinimumAverageSlice.md
