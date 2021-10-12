@@ -16,7 +16,7 @@ starting position of such a slice.
 
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
-| Solution 1 | [JS][JS-1]                 | O(n)            | O(1)             |
+| Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n)            | O(1)             |
 
 ## Examples
 
@@ -33,5 +33,7 @@ A = [4, 2, 2, 5, 1, 5, 8]
 ```javascript
 1
 ```
+
+[PHP-1]: ../solutions/php/009-MinimumAverageSlice/solution-1.php
 
 [JS-1]: ../solutions/js/009-MinimumAverageSlice/solution-1.js
