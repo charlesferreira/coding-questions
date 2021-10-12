@@ -15,11 +15,11 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 007 | [Insertion Sort][007]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 008 | [Selection Sort][008]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 009 | [Minimum Average Slice][009]            | O(n)         | [Codility][Codility]      |
-| 010 | [Count Triplets][010]                   |              | [HackerRank][HackerRank]  |
+| 010 | [Count Triplets][010]                   | O(n)         | [HackerRank][HackerRank]  |
 
 [AlgoExpert]: https://www.algoexpert.io/
 
-[HackerRank]: https://www.algoexpert.io/
+[HackerRank]: https://www.hackerrank.com/
 
 [Codility]: https://www.codility.com/
 
