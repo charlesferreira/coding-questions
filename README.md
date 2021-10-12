@@ -15,12 +15,15 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 007 | [Insertion Sort][007]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 008 | [Selection Sort][008]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 009 | [Minimum Average Slice][009]            |              | [Codility][Codility]      |
+| 010 | [Count Triplets][010]                   |              | [HackerRank][HackerRank]  |
 
-[Turing]: https://www.turing.com/
+[AlgoExpert]: https://www.algoexpert.io/
+
+[HackerRank]: https://www.algoexpert.io/
 
 [Codility]: https://www.codility.com/
 
-[AlgoExpert]: https://www.algoexpert.io/
+[Turing]: https://www.turing.com/
 
 [001]: questions/001-CountSpecificElementsInArray.md
 
@@ -39,3 +42,5 @@ My favorite questions and solutions on Algorithms and Data Structures.
 [008]: questions/008-SelectionSort.md
 
 [009]: questions/009-MinimumAverageSlice.md
+
+[010]: questions/010-CountTriplets.md
