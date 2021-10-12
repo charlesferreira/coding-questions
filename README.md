@@ -14,7 +14,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | 006 | [Bubble Sort][006]                      | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 007 | [Insertion Sort][007]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
 | 008 | [Selection Sort][008]                   | O(n^2)       | [Algo Expert][AlgoExpert] |
-| 009 | [Minimum Average Slice][009]            |              | [Codility][Codility]      |
+| 009 | [Minimum Average Slice][009]            | O(n)         | [Codility][Codility]      |
 | 010 | [Count Triplets][010]                   |              | [HackerRank][HackerRank]  |
 
 [AlgoExpert]: https://www.algoexpert.io/
