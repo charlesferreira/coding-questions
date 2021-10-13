@@ -1,6 +1,8 @@
 <?php
 
-// O(n) time | O(1) space, n = number of elements in array
+// O(n) time | O(c) space
+// n = number of elements in array
+// c = number of unique values in array
 function countTriplets(array $arr, int $r): int {
     $count = 0;
     $level1 = [];
