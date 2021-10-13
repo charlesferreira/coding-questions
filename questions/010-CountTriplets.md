@@ -9,7 +9,7 @@ progression for a given common ratio `r` and `i < j < k`.
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
 | Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^3)          | O(1)             |
-| Solution 2 | [PHP][PHP-2]               | O(n)            | O(1)             |
+| Solution 2 | [PHP][PHP-2] \| [JS][JS-2] | O(n)            | O(c)             |
 
 ## Examples
 
@@ -78,3 +78,5 @@ r = 5
 [PHP-2]: ../solutions/php/010-CountTriplets/solution-2.php
 
 [JS-1]: ../solutions/js/010-CountTriplets/solution-1.js
+
+[JS-2]: ../solutions/js/010-CountTriplets/solution-2.js
