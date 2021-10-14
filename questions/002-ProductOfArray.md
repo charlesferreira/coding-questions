@@ -10,7 +10,7 @@ fit in a 32-bit integer.
 | Solution   | Language                   | Time complexity | Space complexity |
 |:----------:|:--------------------------:|:---------------:|:----------------:|
 | Solution 1 | [PHP][PHP-1] \| [JS][JS-1] | O(n^2)          | O(n)             |
-| Solution 2 | [PHP][PHP-2]               | O(n)            | O(n)             |
+| Solution 2 | [PHP][PHP-2] \| [JS][JS-2] | O(n)            | O(n)             |
 | Solution 3 | [PHP][PHP-3]               | O(n)            | O(n)             |
 
 ## Examples
@@ -50,3 +50,5 @@ nums = [-1, 1, 0, -3, 3]
 [PHP-3]: ../solutions/php/002-ProductOfArray/solution-3.php
 
 [JS-1]: ../solutions/js/002-ProductOfArray/solution-1.js
+
+[JS-2]: ../solutions/js/002-ProductOfArray/solution-2.js
