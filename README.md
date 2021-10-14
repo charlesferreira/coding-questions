@@ -7,7 +7,7 @@ My favorite questions and solutions on Algorithms and Data Structures.
 | #   | Name                                    | My best time | Source                    |
 |:---:|:----------------------------------------|:------------:|:-------------------------:|
 | 001 | [Count Specific Elements In Array][001] | O(n)         | [Turing][Turing]          |
-| 002 | [Product of Array][002]                 | O(n^2)       | [Codility][Codility]      |
+| 002 | [Product of Array][002]                 | O(n)         | [Codility][Codility]      |
 | 003 | [Two Number Sum][003]                   | O(n)         | [Algo Expert][AlgoExpert] |
 | 004 | [Find Common Characters][004]           | O(n*m)       | [Codility][Codility]      |
 | 005 | [Binary Search][005]                    | O(log(n))    | [Algo Expert][AlgoExpert] |
